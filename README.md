@@ -56,6 +56,7 @@ Put `kidney_disease.csv` in the same folder as the notebook, open it and choose 
 
 ## Author
 Kishore V
+
 Gmail : kishorevenkat987@gmail.com
 
 
