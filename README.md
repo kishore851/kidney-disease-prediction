@@ -55,4 +55,7 @@ Put `kidney_disease.csv` in the same folder as the notebook, open it and choose 
 - `shap_summary_whole_dataset.png`, `shap_force_plot.png`: the SHAP plots
 
 ## Author
-[Your name] | [LinkedIn profile link]
+Kishore V
+Gmail : kishorevenkat987@gmail.com
+
+
